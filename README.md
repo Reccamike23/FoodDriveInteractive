@@ -22,4 +22,4 @@ Gurjot Singh
 
 We are the Machine Learning Analyst Student of MLI 3830
 
-Web Streamlit Application link: https://fooddriveapp-cncyxsewjtumqv6nrv7y6m.streamlit.app/ 
+Web Streamlit Application link: https: https://fooddrive.streamlit.app/ 
